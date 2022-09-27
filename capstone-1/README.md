@@ -8,7 +8,7 @@
 >
 > -   `Developed and presented models that showcased a 40% increase in profits.`
 >
-> *Click the icons below to see the project files and deliverables*  
+*Click the icons below to see the project files and deliverables*  
 
 | Excel | PowerPoint | ReadMe |
 | :-: | :-: | :-: |
