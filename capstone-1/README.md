@@ -25,9 +25,11 @@
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty 
 ## **📊 The Data**
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty
+> *Lariat* provided me with 4 Excel Workbooks, each of the Workbooks contained different data:
+> - Workbook 1 - **Fleet vehicle data:** `Car ID, Make, Model, Year...`
+> - Workbook 2 - **Cost data:** `Car ID, Monthly cost, Insurance Costs...` 
+> - Workbook 3 - **Transaction data:** `Car ID, Revenue, Branch ID, Dates...`
+> - Workbook 4 - **Branch data:** `Branch ID, State, City, Airport?...`
 ## **📐 Methods**
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
