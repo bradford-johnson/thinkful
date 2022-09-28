@@ -30,8 +30,11 @@
 > - Workbook 2 - **Cost data:** `Car ID, Monthly cost, Insurance Costs...` 
 > - Workbook 3 - **Transaction data:** `Car ID, Revenue, Branch ID, Dates...`
 > - Workbook 4 - **Branch data:** `Branch ID, State, City, Airport?...`
-
-After consolidating the Workbooks, I cleaned up the data and began to explore it with **pivot charts** and **tables**. I also began combining the data using formulas to make this data tell its story. 
+> 
+> The Workbooks and columns are set up like a **SQL database**, with relational data tables, and keys that connect the different tables. The structure of the data is important to understand as this will tell you what formulas can be used to combine the data, and how to **interpret** each “table”. 
+> 
+> After consolidating the Workbooks, I cleaned up the data and began to explore it with **pivot charts** and **tables**. I also began combining the data using formulas to make this data tell its story. 
+> 
 > The **most common** formulas I used include: `=VLOOKUP()`, `=XLOOKUP()`, `=SUMIF()`, and `=IF()`.
 
 ## **📐 Methods**
