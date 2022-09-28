@@ -40,7 +40,9 @@
 > Once I had built out my formulas, I explored my data further with `pivot tables` and `charts`.  This let me see trends in the **profitability of different car makes and models**. I explored potential trends such as by branch, however with the variability of the locations and markets it would need more data before any trend of significance is noticed. 
 > > *For example comparing an airport branch that is in a medium sized city on the East Coast of the US to a non-airport branch on the West Coast in very dense metropolitan area would not be fair.* 
 > 
-> When it comes to the deliverables, the Excel model was designed to have a **baseline** for *Lariat*. This baseline would be broken down by the three rental `car model years`. The metrics would be the `daily revenue`, `costs`, and `number of rentals for the year`. This would show the current daily state of the business, and my model would be a user scenario for stakeholders to input their own values to see how changes in costs, revenue, or rental days impacts the yearly figures. This would be able to allow stakeholders to use the model to make informed business decisions. 
+> When it comes to the deliverables, the Excel model was designed to have a **baseline** for *Lariat*. This baseline would be broken down by the three rental `car model years`. The metrics would be the `daily revenue`, `costs`, and `number of rentals for the year`. This would show the current daily state of the business, and my model would be a user scenario for stakeholders to input their own values to see how changes in costs, revenue, or rental days impacts the yearly figures. This would be able to allow stakeholders to use the model to make informed business decisions.  
+> 
+> ![](images/baseline.png)
 ## **📈 Findings | Insights**
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
