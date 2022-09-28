@@ -25,11 +25,15 @@
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty 
 ## **📊 The Data**
-> *Lariat* provided me with 4 Excel Workbooks, each of the Workbooks contained different data:
+> *Lariat* provided me with 4 Excel Workbooks, each of the Workbooks contained **different** data:
 > - Workbook 1 - **Fleet vehicle data:** `Car ID, Make, Model, Year...`
 > - Workbook 2 - **Cost data:** `Car ID, Monthly cost, Insurance Costs...` 
 > - Workbook 3 - **Transaction data:** `Car ID, Revenue, Branch ID, Dates...`
 > - Workbook 4 - **Branch data:** `Branch ID, State, City, Airport?...`
+
+After consolidating the Workbooks, I cleaned up the data and began to explore it with **pivot charts** and **tables**. I also began combining the data using formulas to make this data tell its story. 
+> The **most common** formulas I used include: `=VLOOKUP()`, `=XLOOKUP()`, `=SUMIF()`, and `=IF()`.
+
 ## **📐 Methods**
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
