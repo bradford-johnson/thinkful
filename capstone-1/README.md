@@ -34,9 +34,11 @@
 > The **most common** formulas I used include: `=VLOOKUP()`, `=XLOOKUP()`, `=SUMIF()`, and `=IF()`.
 
 ## **📐 Methods**
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
+> The first thing I wanted to get from combining the data was the **revenue**, **costs**, and **profit** for all of the 4,000 fleet rental cars by the **month**, and then for the **year**.  
+> 
+> The data was **missing records** for December and most of November, so I had to do without, however with the cell references I used, this is not a problem as post analysis additional data can be added and the Workbook, all the formulas, and the model would update and be accurate. 
+> Once I had built out my formulas, I explored my data further with `pivot tables` and `charts`.  This let me see trends in the **profitability of different car makes and models**. I explored potential trends such as by branch, however with the variability of the locations and markets it would need more data before any trend of significance is noticed. 
+> > *For example comparing an airport branch that is in a medium sized city on the East Coast of the US to a non-airport branch on the West Coast in very dense metropolitan area would not be fair.* 
 ## **📈 Findings | Insights**
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
