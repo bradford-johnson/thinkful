@@ -55,9 +55,9 @@
 > > 
 > > **Included in the Excel Workbook** is *documentation* for the model and how it works. I also implemented **data validation** and **protection** to keep from unintended changes being made, and unintended inputs.
 ## **📈 Findings | Insights**
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
+> There were several interesting insights that I came across when exploring this data. The first insight is that the number of rental days is not significantly different between the car model years.
+>
+> ![](images/year-bar.png) 
 ## **💬 Discussion**
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
