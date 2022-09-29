@@ -54,18 +54,24 @@
 > > As you can see in the *above* image, there are **data input fields** where users can input percentages and manipulate the percentage change from the baseline metrics. Such as **simulating a decrease in cost** or **increase in revenue** and **proportionate changes in the number of rentals**. 
 > > 
 > > **Included in the Excel Workbook** is *documentation* for the model and how it works. I also implemented **data validation** and **protection** to keep from unintended changes being made, and unintended inputs.
-## **📈 Findings | Insights**
+## **📈 Insights**
+> *NOTE: These are only some of the insights, you can find more in the Excel Workbook*
+> 
 > There was **not a significant difference** in the number of rental days between the 3 different car model years. 
 >
 > ![](images/year-bar.png) 
 >
-> *Ford*, *Chevrolet*, *Dodge* and *Toyota* were the **top 4 car makes by revenue**. However these 4 makes account for over **25%** of the fleet’s cars.
+> *Ford*, *Chevrolet*, *Dodge* and *Toyota* were the **top 4 car makes by revenue**. However, these 4 makes account for over **25%** of the fleet’s cars.
 > 
 > ![](images/revenue-bar.png)
 >
 > These are some cars *Lariat* needs to **get rid of**, as they are not profitable.
 >
 > ![](images/noprofit-table.png)
+> 
+> The difference in *Lariat's* actual profit and their user scenario profit. This scenario is the same user scenario as *above*, and this is the dynamic chart that changes with the **user's input** to the model.
+>
+> ![](images/profit-bar.png)
 ## **💬 Discussion**
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
