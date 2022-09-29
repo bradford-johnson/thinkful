@@ -62,6 +62,10 @@
 > *Ford*, *Chevrolet*, *Dodge* and *Toyota* were the **top 4 car makes by revenue**. However these 4 makes account for over **25%** of the fleet’s cars.
 > 
 > ![](images/revenue-bar.png)
+>
+> These are some cars *Lariat* needs to **get rid of**, as they are not profitable.
+>
+> ![](images/noprofit-table.png)
 ## **💬 Discussion**
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
