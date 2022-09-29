@@ -55,9 +55,13 @@
 > > 
 > > **Included in the Excel Workbook** is *documentation* for the model and how it works. I also implemented **data validation** and **protection** to keep from unintended changes being made, and unintended inputs.
 ## **📈 Findings | Insights**
-> There were several interesting insights that I came across when exploring this data. The first insight is that the number of rental days is not significantly different between the car model years.
+> There was **not a significant difference** in the number of rental days between the 3 different car model years. 
 >
 > ![](images/year-bar.png) 
+>
+> *Ford*, *Chevrolet*, *Dodge* and *Toyota* were the **top 4 car makes by revenue**. However these 4 makes account for over **25%** of the fleet’s cars.
+> 
+> ![](images/revenue-bar.png)
 ## **💬 Discussion**
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
