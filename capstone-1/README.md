@@ -78,4 +78,4 @@
 > - Maximize revenue by increasing the rental prices for fleet vehicles.
 > - Assume a decrease in rental days.
 >
-> I decided for my Excel model to group the cars by model year, this is because especially with vehicles older ones may need more servicing and costly repairs, so being able to explore changes to the baseline broken down in this way it allows for much more detailed customization and "fine tuning".
+> I decided for my Excel model to group the cars by model year, this is because older vehicles may need more servicing and repairs than newer cars. When I think of *new cars*, I think theres *new features* for the end user. This is also a good way to split up the fleet into groups of cars for the user scenario inputs.
