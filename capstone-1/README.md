@@ -73,9 +73,10 @@
 >
 > ![](images/profit-bar.png)
 ## **💬 Discussion**
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
-> qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
+> *Lariat's* **business objective** was to minimize costs and maximize profits. I suggested to *Lariat* ways to meet this objective, and here is my suggestion:
+> - Minimize costs by converting fleet to the most profitable vehicles. Sell the vehicles that are not profitable.  
+> - Maximize revenue by increasing the rental prices for fleet vehicles.
+> - Assume a decrease in rental days.
 ## **📖 Resources | Citations**
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
 > qwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwertyqwerty  
