@@ -1,6 +1,6 @@
 ## **Vehicle Fuel Economy \|** ![](images/excel.svg)
 
-> ### **Business Analysis for Lariat Rent-A-Car**
+> ### **Statistical Analysis**
 >
 > -   `Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)`
 >
