@@ -1,4 +1,4 @@
-## **Revenue Growth Model \|** ![](images/excel.svg)
+## **Vehicle Fuel Economy \|** ![](images/excel.svg)
 
 > ### **Business Analysis for Lariat Rent-A-Car**
 >
