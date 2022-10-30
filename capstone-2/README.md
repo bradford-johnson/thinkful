@@ -2,11 +2,9 @@
 
 > ### **Statistical Analysis**
 >
-> -   `Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests)`
+> -   `Examined and cleaned fuel economy data using Excel (VLookUp, pivot tables and t-tests)`
 >
-> -   `Facilitated exploratory data analysis and assessed by KPI performance.`
->
-> -   `Developed and presented models that showcased a 40% increase in profits.`
+> -   `Facilitated exploratory data analysis and hypothesis testing.`
 >
 > *Click the icons below to see the project files and deliverables*  
 >
